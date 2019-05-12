@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "chiku"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "venv/bin/python3"
+	}
+}
